@@ -28,9 +28,7 @@ To execute the test suite, you can do either of the following:
 
 > ./music_collection_tests
 
-<pre>
 
-</pre>
 
 ### **Mocha test suite**
 
