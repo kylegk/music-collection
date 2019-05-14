@@ -3,3 +3,4 @@
 const MusicCollectionInterface = require('./lib/interface.js')
 
 const mci = new MusicCollectionInterface()
+mci.promptUser()
