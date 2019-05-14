@@ -1,0 +1,27 @@
+{
+  "name": "music-collection",
+  "version": "0.0.1",
+  "description": "An interface for managing a music collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test/music_collection_tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylegk/music-collection.git"
+  },
+  "keywords": [
+    "Git",
+    "CLI"
+  ],
+  "author": "Kyle Keller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylegk/music-collection/issues"
+  },
+  "homepage": "https://github.com/kylegk/music-collection#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
